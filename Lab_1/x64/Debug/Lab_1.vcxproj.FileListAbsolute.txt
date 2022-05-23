@@ -1,0 +1,3 @@
+D:\Пари\БД\Lab_1\x64\Debug\Lab_1.exe
+C:\Users\Sophie\OneDrive\Робочий стіл\Lab_1\x64\Debug\Lab_1.exe
+C:\Users\Sophie\source\Lab_1\x64\Debug\Lab_1.exe
